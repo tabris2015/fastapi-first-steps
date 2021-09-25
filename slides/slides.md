@@ -197,6 +197,9 @@ def get_pokemon(id: int):
 ---
 <!-- _class: lead -->
 # Demo Time!
+
+[repo en github](https://github.com/tabris2015/fastapi-first-steps)
+
 ---
 <!-- _class: lead -->
 # ¿Preguntas?
