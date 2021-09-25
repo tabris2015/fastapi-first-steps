@@ -92,7 +92,7 @@ El status code es un número entero de tres dígitos que representa el resultado
 
 El status code es un número entero de tres dígitos que representa el resultado de la solicitud enviada desde el servidor. 
 
-  - `100`: Continue 
+  - `100 Continue`
   - `200 OK`, `201 Created`, `206 Partial Content`
   - `301 Moved Permanently`, `302 Found`
   - `404 Not Found`, `400 Bad Request`, `422 Unprocessable Entity`
